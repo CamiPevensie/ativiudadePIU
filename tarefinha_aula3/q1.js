@@ -7,10 +7,10 @@
 
 let numero=10
 
-if(numero>0){
-    console.log('positivo')
-}else if(numero<0){
+if(numero>0){ //confere se o número é maior que zero
+    console.log('positivo') // printzinho legal
+}else if(numero<0){ // confere se o número é menor que zero
     console.log('negativo')
-}else{
+}else{ //se não for nem maio nem menor só pode ser zero, né cumpadi?
     console.log('zero')
 }
