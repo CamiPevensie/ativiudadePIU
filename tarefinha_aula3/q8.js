@@ -3,4 +3,3 @@
 // Caso o número não seja inteiro, lance uma exceção (use throw).
 // Ex.:
 // {‘pares’: 3, ‘impares’, 5}
-
